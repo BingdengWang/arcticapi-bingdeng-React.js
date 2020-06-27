@@ -4,13 +4,13 @@
 E-commerce website example
 
 
-Front-end: <strong>React</stong>
+Front-end: <strong>React</strong>
 
-Back-end: Python
+Back-end: <strong>Python</strong>
 
-Database: Sqlite3
+Database: <strong>Sqplite3</strong>
 
-Connect to Stripe
+Connect to <strong>Stripe</strong>
 
 
 
