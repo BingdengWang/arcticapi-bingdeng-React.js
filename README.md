@@ -3,7 +3,9 @@
 E-commerce website example
 
 Front-end: React
+
 Back-end: Python
+
 Database: Sqlite3
 
 Connect to Stripe
