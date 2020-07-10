@@ -1,4 +1,4 @@
-# arcticapi-bingdeng
+# arcticapi-bingdeng-react
 
 
 E-commerce website example
